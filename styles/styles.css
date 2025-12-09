@@ -1,0 +1,19 @@
+.logo{
+    width: 200px;
+}
+
+.redes img{
+    width: 20px;
+}
+
+.card {
+    border-radius: 25px;
+}
+
+.navbar-brand img {
+    width: 150px;
+}
+
+.form-floating > textarea.form-control {
+    min-height: 150px;
+}
